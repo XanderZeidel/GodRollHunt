@@ -1,0 +1,54 @@
+{
+    "description": "(Specific god rolls that I am hunting for)",
+    "name": "Weapon Hunts",
+    "data": [
+        {
+            "description": "",
+            "hash": 2723909519,
+            "name": "My Go-To God Roll",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1820235745,
+                    3643424744
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 507038823,
+            "name": "My Go-to god roll",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    1968497646
+                ],
+                [
+                    1820235745,
+                    2621346526
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "Controller"
+            ]
+        }
+    ]
+}
